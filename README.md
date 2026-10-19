@@ -60,5 +60,4 @@ Desenvolvo minhas habilidades conectando cinco áreas complementares:
 
 Estou aberta a oportunidades de estágio e vagas júnior em Desenvolvimento, Suporte N2, Cloud ou Dados!
 Linkedin -- https://www.linkedin.com/in/carolina-fernanda-416301207/
-https://www.linkedin.com/in/carolina-fernanda-416301207/416301207/)te)](https://www.linkedin.com/in/carolina-fernanda-416301207/)
-[![GitHub](https://img.shields.io/badge/GitHub-CAROOLZI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CAROOLZI)
+
